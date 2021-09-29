@@ -7,7 +7,7 @@ Para desarrollar el primer caso, de mediciones de CO2 en el aire, puede utilizar
 Luego, abra la terminal y utilice el siguiente código para clonar este repo:
 
 ```
-!git clone https://github.com/lcajachahua/curso-super-forecasting.git
+git clone https://github.com/lcajachahua/curso-super-forecasting.git
 ```
 
 Para desarrollar el segundo caso, de venta de autos, es necesario utilizar Google Colab. Ingrese a: https://colab.research.google.com/
