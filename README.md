@@ -1,8 +1,8 @@
-# Caso: Pronósticos de Ventas de Autos utilizando Prophet
+# Caso: Intervalos de pronóstico para la medición de CO2 en el aire
 
-Curso Metodos Supervisados del PEA Advanced Data Science - DMC
+Curso Metodos Supervisados del PEA Data Science Fundamentals - DMC
 
-Para desarrollar el primer caso, de mediciones de CO2 en el aire, puede utilizar la versión gratuita en cloud de Jupyter. Ingrese a: https://jupyter.org/try y elija la opción "Try JupyterLab"
+Para desarrollar el caso de mediciones de CO2 en el aire, puede utilizar la versión gratuita en cloud de Jupyter. Ingrese a: https://jupyter.org/try y elija la opción "Try JupyterLab"
 
 Luego, abra la terminal y utilice el siguiente código para clonar este repo:
 
@@ -10,9 +10,5 @@ Luego, abra la terminal y utilice el siguiente código para clonar este repo:
 git clone https://github.com/lcajachahua/curso-super-forecasting.git
 ```
 
-Para desarrollar el segundo caso, de venta de autos, es necesario utilizar Google Colab. Ingrese a: https://colab.research.google.com/
 
-Puede copiar la carpeta de Drive: https://drive.google.com/drive/folders/1vG4jOQtz21Nsb5pcAEbbAOWnK2jBMZCj?usp=sharing
-
-
-Elaborado por Luis Cajachahua, bajo licencia MIT (2021)
+Elaborado por Luis Cajachahua, bajo licencia MIT (2022)
